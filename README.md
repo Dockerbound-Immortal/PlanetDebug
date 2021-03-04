@@ -22,7 +22,7 @@
 
 [<img align="left" alt="planetdebug.tech" style="padding: 5px;" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
 
-[<img align="left" alt="luke's github" style="padding: 5px;" width="22px" src="./images/luke-circle.png" />][website] 
+[<img align="left" alt="luke's github" style="padding: 5px;" width="24px" src="./images/luke-circle.png" />][website] 
 
 [website]: https://404
 [lukegit]: https://github.com/LukeMcCann
