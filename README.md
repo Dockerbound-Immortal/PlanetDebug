@@ -1,5 +1,5 @@
 <div align="center">
 
-![planetdebug](./assets/images/planetdebug.gif)
+![planetdebug](./images/planetdebug.gif)
 
 </div>
